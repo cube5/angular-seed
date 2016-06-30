@@ -1,2 +1,2 @@
 # angular-seed
-Seed code because who has the time to configure angular2
+Because who has time to configure angular2
